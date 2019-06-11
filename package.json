@@ -4,7 +4,7 @@
   "description": "A template for quickly getting started with the fizzbuzz kata",
   "main": "fizzbuzz.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
