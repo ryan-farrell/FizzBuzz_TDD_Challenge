@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Gryff/fizzbuzz-kata-starter/issues"
   },
-  "homepage": "https://github.com/Gryff/fizzbuzz-kata-starter#readme"
+  "homepage": "https://github.com/Gryff/fizzbuzz-kata-starter#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
