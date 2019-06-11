@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-kata-starter",
+  "version": "1.0.0",
+  "description": "A template for quickly getting started with the fizzbuzz kata",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gryff/fizzbuzz-kata-starter.git"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "kata"
+  ],
+  "author": "Gryff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gryff/fizzbuzz-kata-starter/issues"
+  },
+  "homepage": "https://github.com/Gryff/fizzbuzz-kata-starter#readme"
+}
